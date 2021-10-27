@@ -1,0 +1,4 @@
+@mixin textos ($colorFooter, $font-size) {
+    color: $colorFooter;
+    font-size: $font-size;
+}
